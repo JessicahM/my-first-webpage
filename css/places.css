@@ -1,0 +1,42 @@
+h1 {
+  color: purple;
+  text-align: center;	
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+body {
+  background-image: url("http://media.gettyimages.com/videos/birds-on-the-white-background-video-id146102323?s=640x640");
+  opacity: 0.9;
+  
+
+}
+
+h3 {
+  color: grey;
+  font-style: inherit;
+  text-align: center;
+  font-size: 28px;
+}
+
+h4 {
+  font-size: 25px;
+  position: fixed;
+}
+
+h2 {
+  font color: yellow;
+  font size: 20px;
+}
+
+img {
+  border-radius: 80px;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+ul {
+  list-style-type: circle;
+}
